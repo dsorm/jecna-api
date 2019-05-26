@@ -1,2 +1,2 @@
 # JecnaAPI
-[![Build Status](https://travis-ci.com/david-sorm/jecnaapi.svg?token=vZAGWA2kVatciVzpKwf4&branch=master)](https://travis-ci.com/david-sorm/jecnaapi)
+[![Build Status](https://travis-ci.org/david-sorm/jecna-api.svg?branch=master)](https://travis-ci.org/david-sorm/jecna-api)
