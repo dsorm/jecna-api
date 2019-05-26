@@ -1,0 +1,48 @@
+<table class="userprofile" cellspacing="1" summary="">
+    <tbody>
+    <tr>
+        <th><span class="label">Celé jméno</span></th>
+        <td><span class="value">Jan Novák</span></td>
+    </tr>
+    <tr>
+        <th><span class="label">Uživatelské jméno</span></th>
+        <td><span class="value">novak</span></td>
+    </tr>
+    <tr class="no-print">
+        <th><span class="label">Věk</span></th>
+        <td><span class="value">1337 let</span></td>
+    </tr>
+    <tr>
+        <th><span class="label">Narození</span></th>
+        <td><span class="value">1. 9. 1939, Polsko/Německo</span></td>
+    </tr>
+    <tr>
+        <th><span class="label">Telefon</span></th>
+        <td><span class="value">123 456 789</span></td>
+    </tr>
+    <tr>
+        <th><span class="label">Trvlá adresa</span></th>
+        <td><span class="value">Nekde 1234/5, Praha 666, 12345</span></td>
+    </tr>
+    <tr>
+        <th><span class="label">Třída, skupiny</span></th>
+        <td><span class="value">E1a, skupiny: A2</span></td>
+    </tr>
+    <tr>
+        <th><span class="label">Číslo v tříd. výkazu</span></th>
+        <td><span class="value">666</span></td>
+    </tr>
+    <tr>
+        <th><span class="label">Soukromý e-mail</span></th>
+        <td>
+            <a class="link" href="https://outlook.office365.com/owa/?realm=spsejecna.cz&amp;path=/mail/action/compose&amp;to=novak@example.com" target="_blank"><span class="sprite-icon-16 sprite-icon-email-16"></span><span class="label">novak@example.com</span></a>
+        </td>
+    </tr>
+    <tr>
+        <th><span class="label">Školní e-mail</span></th>
+        <td>
+            <span class="value"><a class="link" href="https://outlook.office365.com/owa/?realm=spsejecna.cz&amp;path=/mail/action/compose&amp;to=novak@spsejecna.example.com" target="_blank"><span class="sprite-icon-16 sprite-icon-email-16"></span><span class="label">novak@spsejecna.example.com</span></a> <em> (přeposílán na soukromý).</em></span>
+        </td>
+    </tr>
+    </tbody>
+</table>

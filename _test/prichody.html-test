@@ -1,0 +1,84 @@
+<table class="tab absence-list" summary="">
+    <tbody>
+    <tr>
+        <td class="date" id="day1">1.2.&nbsp;(pátek)</td>
+        <td width="100%"></td>
+    </tr>
+    <tr>
+        <td class="date" id="day4">4.2.&nbsp;(pondělí)</td>
+        <td width="100%"></td>
+    </tr>
+    <tr>
+        <td class="date" id="day5">5.2.&nbsp;(úterý)</td>
+        <td width="100%"><p>Odchod 14:26</p></td>
+    </tr>
+    <tr>
+        <td class="date" id="day6">6.2.&nbsp;(středa)</td>
+        <td width="100%"><p>Odchod 14:12</p></td>
+    </tr>
+    <tr>
+        <td class="date" id="day7">7.2.&nbsp;(čtvrtek)</td>
+        <td width="100%"><p>Příchod 7:26, Odchod 14:12</p></td>
+    </tr>
+    <tr>
+        <td class="date" id="day8">8.2.&nbsp;(pátek)</td>
+        <td width="100%"><p>Odchod 13:21</p></td>
+    </tr>
+    <tr>
+        <td class="date" id="day11">11.2.&nbsp;(pondělí)</td>
+        <td width="100%"></td>
+    </tr>
+    <tr>
+        <td class="date" id="day12">12.2.&nbsp;(úterý)</td>
+        <td width="100%"></td>
+    </tr>
+    <tr>
+        <td class="date" id="day13">13.2.&nbsp;(středa)</td>
+        <td width="100%"></td>
+    </tr>
+    <tr>
+        <td class="date" id="day14">14.2.&nbsp;(čtvrtek)</td>
+        <td width="100%"></td>
+    </tr>
+    <tr>
+        <td class="date" id="day15">15.2.&nbsp;(pátek)</td>
+        <td width="100%"></td>
+    </tr>
+    <tr>
+        <td class="date" id="day18">18.2.&nbsp;(pondělí)</td>
+        <td width="100%"></td>
+    </tr>
+    <tr>
+        <td class="date" id="day19">19.2.&nbsp;(úterý)</td>
+        <td width="100%"></td>
+    </tr>
+    <tr>
+        <td class="date" id="day20">20.2.&nbsp;(středa)</td>
+        <td width="100%"></td>
+    </tr>
+    <tr>
+        <td class="date" id="day21">21.2.&nbsp;(čtvrtek)</td>
+        <td width="100%"></td>
+    </tr>
+    <tr>
+        <td class="date" id="day22">22.2.&nbsp;(pátek)</td>
+        <td width="100%"></td>
+    </tr>
+    <tr>
+        <td class="date" id="day25">25.2.&nbsp;(pondělí)</td>
+        <td width="100%"></td>
+    </tr>
+    <tr>
+        <td class="date" id="day26">26.2.&nbsp;(úterý)</td>
+        <td width="100%"></td>
+    </tr>
+    <tr>
+        <td class="date" id="day27">27.2.&nbsp;(středa)</td>
+        <td width="100%"></td>
+    </tr>
+    <tr>
+        <td class="date" id="day28">28.2.&nbsp;(čtvrtek)</td>
+        <td width="100%"></td>
+    </tr>
+    </tbody>
+</table>

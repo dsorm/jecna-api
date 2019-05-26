@@ -1,0 +1,274 @@
+<table class="score">
+    <thead>
+    <tr>
+        <th>Předmět</th>
+        <th>Známky</th>
+        <th>Výsledná známka</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th width="125">Český jazyk a literatura (C)</th>
+        <td style="min-width:300px">
+            <a title="(13.09.2018, Šimečková Pavlína, Bc.)" class="score scoreValue3" href="/score/view?scoreId=438200">
+                <span class="value">3</span><span class="employee">SC</span></a>
+
+            <a title="(04.10.2018, Šimečková Pavlína, Bc.)" class="score scoreValue3" href="/score/view?scoreId=443471">
+                <span class="value">3</span><span class="employee">SC</span></a>
+
+            <a title="diktát (07.11.2018, Studénková Kristina, MUDr.)" class="score scoreValue3" href="/score/view?scoreId=458225">
+                <span class="value">3</span><span class="employee">SU</span></a>
+
+            <a title="diktát (doplňkový) (07.11.2018, Studénková Kristina, MUDr.)" class="score scoreValue2 scoreSmall" href="/score/view?scoreId=458254">
+                <span class="value">2</span><span class="employee">SU</span></a>
+
+            <a title="(03.12.2018, Studénková Kristina, MUDr.)" class="score scoreValueN" href="/score/view?scoreId=468547">
+                <span class="value">N</span><span class="employee">SU</span></a>
+
+            <a title="zkoušení (14.12.2018, Studénková Kristina, MUDr.)" class="score scoreValue2" href="/score/view?scoreId=472459">
+                <span class="value">2</span><span class="employee">SU</span></a>
+
+            <a title="diktát (20.01.2019, Studénková Kristina, MUDr.)" class="score scoreValue2" href="/score/view?scoreId=485180">
+                <span class="value">2</span><span class="employee">SU</span></a>
+
+            <a title="test - literatura (20.01.2019, Studénková Kristina, MUDr.)" class="score scoreValue2" href="/score/view?scoreId=485181">
+                <span class="value">2</span><span class="employee">SU</span></a>
+        </td>
+        <td width="30">
+            <a title="dostatečný" onclick="window.location.href='/score/final-view?scoreFinalId=67410&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846&amp;scrollTo='+$(window).scrollTop();return false;" href="/score/final-view?scoreFinalId=67410&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846" class="score scoreFinal scoreValue4">4</a>
+        </td>
+    </tr>
+    <tr>
+        <th width="125">Anglický jazyk (A)</th>
+        <td style="min-width:300px">
+            <a title="Test 1: hodiny, předložky časové, přítomné časy (01.10.2018, Kohutová Libuše, Mgr.)" class="score scoreValue2" href="/score/view?scoreId=442041">
+                <span class="value">2</span><span class="employee">KO</span></a>
+
+            <a title="Minulý čas prostý (16.10.2018, Kohutová Libuše, Mgr.)" class="score scoreValue2" href="/score/view?scoreId=448607">
+                <span class="value">2</span><span class="employee">KO</span></a>
+
+            <a title="Slovicka Šikana a lekce 1 (05.11.2018, Kohutová Libuše, Mgr.)" class="score scoreValue1 scoreSmall" href="/score/view?scoreId=455995">
+                <span class="value">1</span><span class="employee">KO</span></a>
+
+            <a title="test slovesné vazby (19.11.2018, Kohutová Libuše, Mgr.)" class="score scoreValueN scoreSmall" href="/score/view?scoreId=463179">
+                <span class="value">N</span><span class="employee">KO</span></a>
+
+            <a title="test Unit 2- první část (04.12.2018, Kohutová Libuše, Mgr.)" class="score scoreValue1 scoreSmall" href="/score/view?scoreId=469354">
+                <span class="value">1</span><span class="employee">KO</span></a>
+
+            <a title="Test Unit 2 (18.12.2018, Kohutová Libuše, Mgr.)" class="score scoreValue1" href="/score/view?scoreId=473364">
+                <span class="value">1</span><span class="employee">KO</span></a>
+
+            <a title="domácí úkoly-1.pololetí (14.01.2019, Kohutová Libuše, Mgr.)" class="score scoreValueN" href="/score/view?scoreId=480398">
+                <span class="value">N</span><span class="employee">KO</span></a>
+        </td>
+        <td width="30">
+            <a title="chvalitebný" onclick="window.location.href='/score/final-view?scoreFinalId=63661&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846&amp;scrollTo='+$(window).scrollTop();return false;" href="/score/final-view?scoreFinalId=63661&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846" class="score scoreFinal scoreValue2">2</a>
+        </td>
+    </tr>
+    <tr>
+        <th width="125">Dějepis (D)</th>
+        <td style="min-width:300px">
+            <a title="(20.10.2018, Stanislavová Dana, Mgr.)" class="score scoreValue2" href="/score/view?scoreId=450035">
+                <span class="value">2</span><span class="employee">SA</span></a>
+
+            <a title="(20.10.2018, Stanislavová Dana, Mgr.)" class="score scoreValue2" href="/score/view?scoreId=450036">
+                <span class="value">2</span><span class="employee">SA</span></a>
+
+            <a title="(06.11.2018, Stanislavová Dana, Mgr.)" class="score scoreValue2" href="/score/view?scoreId=457321">
+                <span class="value">2</span><span class="employee">SA</span></a>
+
+            <a title="(13.11.2018, Stanislavová Dana, Mgr.)" class="score scoreValue4" href="/score/view?scoreId=460311">
+                <span class="value">4</span><span class="employee">SA</span></a>
+
+            <a title="(13.11.2018, Stanislavová Dana, Mgr.)" class="score scoreValue2" href="/score/view?scoreId=460312">
+                <span class="value">2</span><span class="employee">SA</span></a>
+
+            <a title="(14.12.2018, Stanislavová Dana, Mgr.)" class="score scoreValue2" href="/score/view?scoreId=472600">
+                <span class="value">2</span><span class="employee">SA</span></a>
+        </td>
+        <td width="30">
+            <a title="chvalitebný" onclick="window.location.href='/score/final-view?scoreFinalId=63227&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846&amp;scrollTo='+$(window).scrollTop();return false;" href="/score/final-view?scoreFinalId=63227&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846" class="score scoreFinal scoreValue2">2</a>
+        </td>
+    </tr>
+    <tr>
+        <th width="125">Občanská&nbsp; nauka (ON)</th>
+        <td style="min-width:300px">
+            <a title="diktát (05.10.2018, Šimečková Pavlína, Bc.)" class="score scoreValue2" href="/score/view?scoreId=443906">
+                <span class="value">2</span><span class="employee">SC</span></a>
+
+            <a title="test (12.11.2018, Studénková Kristina, MUDr.)" class="score scoreValueN" href="/score/view?scoreId=459897">
+                <span class="value">N</span><span class="employee">SU</span></a>
+
+            <a title="zkoušení (16.11.2018, Studénková Kristina, MUDr.)" class="score scoreValue1" href="/score/view?scoreId=461961">
+                <span class="value">1</span><span class="employee">SU</span></a>
+
+            <a title="zpráva (10.12.2018, Studénková Kristina, MUDr.)" class="score scoreValue1 scoreSmall" href="/score/view?scoreId=470774">
+                <span class="value">1</span><span class="employee">SU</span></a>
+
+            <a title="test (14.12.2018, Studénková Kristina, MUDr.)" class="score scoreValue2" href="/score/view?scoreId=472439">
+                <span class="value">2</span><span class="employee">SU</span></a>
+        </td>
+        <td width="30">
+            <a title="chvalitebný" onclick="window.location.href='/score/final-view?scoreFinalId=67447&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846&amp;scrollTo='+$(window).scrollTop();return false;" href="/score/final-view?scoreFinalId=67447&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846" class="score scoreFinal scoreValue2">2</a>
+        </td>
+    </tr>
+    <tr>
+        <th width="125">Matematika (M)</th>
+        <td style="min-width:300px">
+
+            <a title="(08.10.2018, Hrabalová Libuše, Mgr.)" class="score scoreValue1" href="/score/view?scoreId=444893">
+                <span class="value">1</span><span class="employee">HR</span></a>
+
+            <a title="(18.11.2018, Hrabalová Libuše, Mgr.)" class="score scoreValue2" href="/score/view?scoreId=462604">
+                <span class="value">2</span><span class="employee">HR</span></a>
+
+            <a title="(18.11.2018, Hrabalová Libuše, Mgr.)" class="score scoreValue3" href="/score/view?scoreId=462605">
+                <span class="value">3</span><span class="employee">HR</span></a>
+
+            <a title="(28.11.2018, Hrabalová Libuše, Mgr.)" class="score scoreValueN" href="/score/view?scoreId=467134">
+                <span class="value">N</span><span class="employee">HR</span></a>
+
+            <a title="(01.01.2019, Hrabalová Libuše, Mgr.)" class="score scoreValue5" href="/score/view?scoreId=474950">
+                <span class="value">5</span><span class="employee">HR</span></a>
+        </td>
+        <td width="30">
+            <a title="dostatečný" onclick="window.location.href='/score/final-view?scoreFinalId=68456&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846&amp;scrollTo='+$(window).scrollTop();return false;" href="/score/final-view?scoreFinalId=68456&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846" class="score scoreFinal scoreValue4">4</a>
+        </td>
+    </tr>
+    <tr>
+        <th width="125">Fyzika (F)</th>
+        <td style="min-width:300px">
+            <a title="(28.09.2018, Rašek Luboš, RNDr.)" class="score scoreValueN" href="/score/view?scoreId=441296">
+                <span class="value">N</span><span class="employee">RK</span></a>
+
+            <a title="(12.10.2018, Rašek Luboš, RNDr.)" class="score scoreValue2" href="/score/view?scoreId=446530">
+                <span class="value">2</span><span class="employee">RK</span></a>
+
+            <a title="(21.10.2018, Rašek Luboš, RNDr.)" class="score scoreValue1" href="/score/view?scoreId=450253">
+                <span class="value">1</span><span class="employee">RK</span></a>
+
+            <a title="(03.12.2018, Rašek Luboš, RNDr.)" class="score scoreValueN" href="/score/view?scoreId=468764">
+                <span class="value">N</span><span class="employee">RK</span></a>
+
+            <a title="(20.01.2019, Rašek Luboš, RNDr.)" class="score scoreValue2" href="/score/view?scoreId=485228">
+                <span class="value">2</span><span class="employee">RK</span></a>
+        </td>
+        <td width="30">
+            <a title="dobrý" onclick="window.location.href='/score/final-view?scoreFinalId=67432&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846&amp;scrollTo='+$(window).scrollTop();return false;" href="/score/final-view?scoreFinalId=67432&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846" class="score scoreFinal scoreValue3">3</a>
+        </td>
+    </tr>
+    <tr>
+        <th width="125">Chemie (Ch)</th>
+        <td style="min-width:300px">
+            <a title="test (28.09.2018, Voborská Jitka, Ing.)" class="score scoreValue5" href="/score/view?scoreId=441238">
+                <span class="value">5</span><span class="employee">VB</span></a>
+
+            <a title="(15.01.2019, Bodnárová Anna, Ing.)" class="score scoreValue5" href="/score/view?scoreId=481625">
+                <span class="value">5</span><span class="employee">BO</span></a></td>
+        <td width="30">
+            <a title="nedostatečný" onclick="window.location.href='/score/final-view?scoreFinalId=63842&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846&amp;scrollTo='+$(window).scrollTop();return false;" href="/score/final-view?scoreFinalId=63842&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846" class="score scoreFinal scoreValue5">5</a>
+        </td>
+    </tr>
+    <tr>
+        <th width="125">Informační a komunikační technologie (IT)</th>
+        <td style="min-width:300px">
+            <strong class="subjectPart">Cvičení: </strong>
+            <a title="(02.10.2018, Mazuch Jakub)" class="score scoreValue5" href="/score/view?scoreId=442244">
+                <span class="value">5</span><span class="employee">MZ</span></a>
+
+            <a title="práce v hodině (09.10.2018, Mazuch Jakub)" class="score scoreValue5 scoreSmall" href="/score/view?scoreId=445205">
+                <span class="value">5</span><span class="employee">MZ</span></a>
+
+            <a title="(23.10.2018, Mazuch Jakub)" class="score scoreValue5" href="/score/view?scoreId=451218">
+                <span class="value">5</span><span class="employee">MZ</span></a>
+
+            <strong class="subjectPart">Teorie: </strong>
+            <a title="(16.10.2018, Slabý Alexandr, Ing.)" class="score scoreValue5" href="/score/view?scoreId=448043">
+                <span class="value">5</span><span class="employee">SB</span></a>
+
+            <a title="(09.11.2018, Slabý Alexandr, Ing.)" class="score scoreValue5" href="/score/view?scoreId=459036">
+                <span class="value">5</span><span class="employee">SB</span></a>
+        </td>
+        <td width="30">
+            <a title="nedostatečný" onclick="window.location.href='/score/final-view?scoreFinalId=65877&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846&amp;scrollTo='+$(window).scrollTop();return false;" href="/score/final-view?scoreFinalId=65877&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846" class="score scoreFinal scoreValue5">5</a>
+        </td>
+    </tr>
+    <tr>
+        <th width="125">Tělesná&nbsp; výchova (TV)</th>
+        <td style="min-width:300px">
+            <a title="(19.11.2018, Hrbek Filip, Mgr.)" class="score scoreValueN" href="/score/view?scoreId=463151">
+                <span class="value">N</span><span class="employee">HB</span></a></td>
+        <td width="30">
+            <a title="uvolněn" onclick="window.location.href='/score/final-view?scoreFinalId=65328&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846&amp;scrollTo='+$(window).scrollTop();return false;" href="/score/final-view?scoreFinalId=65328&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846" class="score scoreFinal scoreValueU">U</a>
+        </td>
+    </tr>
+    <tr>
+        <th width="125">Počítačové aplikace (PA)</th>
+        <td style="min-width:300px">
+            <strong class="subjectPart">Cvičení: </strong>
+
+            <a title="(08.11.2018, Stárek Michael, Ing.)" class="score scoreValue1" href="/score/view?scoreId=458558">
+                <span class="value">1</span><span class="employee">SM</span></a>
+
+            <a title="(12.12.2018, Stárek Michael, Ing.)" class="score scoreValue1" href="/score/view?scoreId=471705">
+                <span class="value">1</span><span class="employee">SM</span></a>
+
+            <strong class="subjectPart">Teorie: </strong>
+
+            <a title="(18.10.2018, Stárek Michael, Ing.)" class="score scoreValue5" href="/score/view?scoreId=449515">
+                <span class="value">5</span><span class="employee">SM</span></a>
+
+            <a title="(15.11.2018, Stárek Michael, Ing.)" class="score scoreValue5" href="/score/view?scoreId=461118">
+                <span class="value">5</span><span class="employee">SM</span></a>
+
+        </td>
+        <td width="30">
+            <a title="chvalitebný" onclick="window.location.href='/score/final-view?scoreFinalId=63327&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846&amp;scrollTo='+$(window).scrollTop();return false;" href="/score/final-view?scoreFinalId=63327&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846" class="score scoreFinal scoreValue2">2</a>
+        </td>
+    </tr>
+    <tr>
+        <th width="125">Základy elektrotechniky (ZE)</th>
+        <td style="min-width:300px">
+            <a title="Lineární rovnice - písemka (14.10.2018, Budai Peter, Ing.)" class="score scoreValueN" href="/score/view?scoreId=447152">
+                <span class="value">N</span><span class="employee">BP</span></a>
+
+            <a title="elektrostatika - písemka (23.10.2018, Budai Peter, Ing.)" class="score scoreValue2" href="/score/view?scoreId=451372">
+                <span class="value">2</span><span class="employee">BP</span></a>
+
+            <a title="elektrická kapacita - zkoušení (03.12.2018, Budai Peter, Ing.)" class="score scoreValue2" href="/score/view?scoreId=468580">
+                <span class="value">2</span><span class="employee">BP</span></a>
+        </td>
+        <td width="30">
+            <a title="chvalitebný" onclick="window.location.href='/score/final-view?scoreFinalId=63268&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846&amp;scrollTo='+$(window).scrollTop();return false;" href="/score/final-view?scoreFinalId=63268&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846" class="score scoreFinal scoreValue2">2</a>
+        </td>
+    </tr>
+    <tr>
+        <th width="125">Praxe (DC)</th>
+        <td style="min-width:300px">
+            <a title="Cvičná práce - konstrukční montáž robotického auta LEGO (11.10.2018, Fiala Martin M.)" class="score scoreValue1" href="/score/view?scoreId=446226">
+                <span class="value">1</span><span class="employee">FI</span></a>
+
+            <a title="Řešení příkladů - programování kostky LEGO EV3 (18.10.2018, Fiala Martin M.)" class="score scoreValue3 scoreSmall" href="/score/view?scoreId=449576">
+                <span class="value">3</span><span class="employee">FI</span></a>
+
+            <a title="vičná práce - zápis a provedení funkčního SW řízení osv. LED, motoru (17.11.2018, Fiala Martin M.)" class="score scoreValueN" href="/score/view?scoreId=462340">
+                <span class="value">N</span><span class="employee">FI</span></a>
+
+            <a title="Opakování - závěrečná praktická práce (06.12.2018, Fiala Martin M.)" class="score scoreValue1" href="/score/view?scoreId=469871">
+                <span class="value">1</span><span class="employee">FI</span></a>
+
+            <a title="(22.01.2019, Šimek Václav)" class="score scoreValueN" href="/score/view?scoreId=486360">
+                <span class="value">N</span><span class="employee">SI</span></a>
+        </td>
+        <td width="30">
+            <a title="chvalitebný" onclick="window.location.href='/score/final-view?scoreFinalId=67600&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846&amp;scrollTo='+$(window).scrollTop();return false;" href="/score/final-view?scoreFinalId=67600&amp;backUri=%2Fscore%2Fstudent%3FuserStudentId%3D1846" class="score scoreFinal scoreValue2">2</a>
+        </td>
+    </tr>
+    <tr>
+        <th width="125">Chování</th>
+        <td></td>
+        <td width="30"><a title="velmi dobré" href="#" class="score scoreFinal">5</a></td>
+    </tr>
+    </tbody>
+</table>

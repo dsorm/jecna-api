@@ -1,0 +1,18 @@
+<div class="column-center has-column-right">
+    <div class="contentLeftColumn">
+        <ul>
+            <li><a href="/ucitel/HI">Adolf Hitler</a></li>
+            <li><a href="/ucitel/ST">Josef Vissarionovič Stalin</a></li>
+            <li><a href="/ucitel/MS">Benito Mussolini</a></li>
+            <li><a href="/ucitel/braunova">Eva Braunová</a></li>
+        </ul>
+    </div>
+    <div class="contentRightColumn">
+        <ul>
+            <li><a href="/ucitel/MO">Mao Ce-tung</a></li>
+            <li><a href="/ucitel/LE">Vladimir Iljič Lenin</a></li>
+            <li><a href="/ucitel/EI">Adolf Eichmann</a></li>
+            <li><a href="/ucitel/HM">Heinrich Himmler</a></li>
+        </ul>
+    </div>
+</div>

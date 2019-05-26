@@ -1,0 +1,52 @@
+<table class="tab absence-list" width="740">
+    <tbody>
+    <tr>
+        <td class="date" width="100">
+            <a class="nounderline" href="/absence/passing-student?userStudentId=1846&amp;schoolYearId=10&amp;schoolYearPartMonthId=1#day29">29.1.
+                (úterý)</a></td>
+        <td class="count"><strong>7 hodin</strong></td>
+    </tr>
+    <tr>
+        <td class="date" width="100">
+            <a class="nounderline" href="/absence/passing-student?userStudentId=1846&amp;schoolYearId=10&amp;schoolYearPartMonthId=1#day22">22.1.
+                (úterý)</a></td>
+        <td class="count"><strong>1 hodina</strong></td>
+    </tr>
+    <tr>
+        <td class="date" width="100">
+            <a class="nounderline" href="/absence/passing-student?userStudentId=1846&amp;schoolYearId=10&amp;schoolYearPartMonthId=1#day16">16.1.
+                (středa)</a></td>
+        <td class="count"><strong>3 hodiny</strong></td>
+    </tr>
+    <tr>
+        <td class="date" width="100">
+            <a class="nounderline" href="/absence/passing-student?userStudentId=1846&amp;schoolYearId=10&amp;schoolYearPartMonthId=1#day11">11.1.
+                (pátek)</a></td>
+        <td class="count"><strong>4 hodiny</strong> z toho <strong style="color:red">4 neomluvené</strong></td>
+    </tr>
+    <tr>
+        <td class="date" width="100">
+            <a class="nounderline" href="/absence/passing-student?userStudentId=1846&amp;schoolYearId=10&amp;schoolYearPartMonthId=1#day10">10.1.
+                (čtvrtek)</a></td>
+        <td class="count"><strong>7 hodin</strong> z toho <strong style="color:red">7 neomluvených</strong></td>
+    </tr>
+    <tr>
+        <td class="date" width="100">
+            <a class="nounderline" href="/absence/passing-student?userStudentId=1846&amp;schoolYearId=10&amp;schoolYearPartMonthId=1#day4">4.1.
+                (pátek)</a></td>
+        <td class="count"><strong>2 hodiny</strong> z toho <strong style="color:red">2 neomluvené</strong></td>
+    </tr>
+    <tr>
+        <td class="date" width="100">
+            <a class="nounderline" href="/absence/passing-student?userStudentId=1846&amp;schoolYearId=10&amp;schoolYearPartMonthId=12#day13">13.12.
+                (čtvrtek)</a></td>
+        <td class="count">1 pozdní příchod z toho <span style="color:red">1 neomluvený</span></td>
+    </tr>
+    <tr>
+        <td class="date" width="100">
+            <a class="nounderline" href="/absence/passing-student?userStudentId=1846&amp;schoolYearId=10&amp;schoolYearPartMonthId=12#day4">4.12.
+                (úterý)</a></td>
+        <td class="count"><strong>7 hodin</strong></td>
+    </tr>
+    </tbody>
+</table>

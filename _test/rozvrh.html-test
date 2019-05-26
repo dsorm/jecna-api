@@ -1,0 +1,253 @@
+<div class="timetable">
+    <div class="table">
+        <table class="timetable" cellspacing="2" summary="">
+            <tbody>
+            <tr>
+                <th></th>
+                <th class="period" width="10%">1<span class="time">7:30 - 8:15</span></th>
+                <th class="period" width="10%">2<span class="time">8:25 - 9:10</span></th>
+                <th class="period" width="10%">3<span class="time">9:20 - 10:05</span></th>
+                <th class="period" width="10%">4<span class="time">10:20 - 11:05</span></th>
+                <th class="period" width="10%">5<span class="time">11:15 - 12:00</span></th>
+                <th class="period" width="10%">6<span class="time">12:10 - 12:55</span></th>
+                <th class="period" width="10%">7<span class="time">13:05 - 13:50</span></th>
+                <th class="period" width="10%">8<span class="time">14:00 - 14:45</span></th>
+                <th class="period" width="10%">9<span class="time">14:55 - 15:40</span></th>
+                <th class="period" width="10%">10<span class="time">15:50 - 16:35</span></th>
+            </tr>
+            <tr>
+                <th class="day">Po</th>
+                <td class="">
+                    <div class="lesson2 lessonFirst">
+                        <a class="room" href="/ucebna/5a">5a</a><a class="employee" href="/ucitel/IR">Ir</a><span class="subject">A</span><a class="class" href="/trida/E1a">E1a</a><span class="group">A1</span>
+                    </div>
+                    <div class="lesson2"><a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/KO">Ko</a><span class="subject">A</span><a class="class" href="/trida/E1a">E1a</a><span class="group">A2</span>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/SU">Su</a><span class="subject">C</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/TV">TV</a><a class="employee" href="/ucitel/HB">Hb</a><span class="subject">TV</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/SU">Su</a><span class="subject">ON</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson2 lessonFirst">
+                        <a class="room" href="/ucebna/19a">19a</a><a class="employee" href="/ucitel/SM">Sm</a><span class="subject">PA</span><a class="class" href="/trida/E1a">E1a</a><span class="group">A1</span>
+                    </div>
+                    <div class="lesson2"><a class="room" href="/ucebna/5b">5b</a><a class="employee" href="/ucitel/KO">Ko</a><span class="subject">A</span><a class="class" href="/trida/E1a">E1a</a><span class="group">A2</span>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/HR">Hr</a><span class="subject">M</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/BP">Bp</a><span class="subject">ZE</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class=" empty"></td>
+                <td class=" empty"></td>
+                <td class=" empty"></td>
+            </tr>
+            <tr>
+                <th class="day">Út</th>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/SM">Sm</a><span class="subject">PA</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/SA">Sa</a><span class="subject">D</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/HR">Hr</a><span class="subject">M</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson2 lessonFirst">
+                        <a class="room" href="/ucebna/17a">17a</a><a class="employee" href="/ucitel/MZ">Mz</a><span class="subject">IT</span><a class="class" href="/trida/E1a">E1a</a><span class="group">IT1</span>
+                    </div>
+                    <div class="lesson2">
+                        <a class="room" href="/ucebna/17b">17b</a><a class="employee" href="/ucitel/SB">Sb</a><span class="subject">IT</span><a class="class" href="/trida/E1a">E1a</a><span class="group">IT2</span>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson2 lessonFirst">
+                        <a class="room" href="/ucebna/17a">17a</a><a class="employee" href="/ucitel/MZ">Mz</a><span class="subject">IT</span><a class="class" href="/trida/E1a">E1a</a><span class="group">IT1</span>
+                    </div>
+                    <div class="lesson2">
+                        <a class="room" href="/ucebna/17b">17b</a><a class="employee" href="/ucitel/SB">Sb</a><span class="subject">IT</span><a class="class" href="/trida/E1a">E1a</a><span class="group">IT2</span>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson2 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/KN">Kn</a><span class="subject">A</span><a class="class" href="/trida/E1a">E1a</a><span class="group">A1</span>
+                    </div>
+                    <div class="lesson2"><a class="room" href="/ucebna/5a">5a</a><a class="employee" href="/ucitel/KO">Ko</a><span class="subject">A</span><a class="class" href="/trida/E1a">E1a</a><span class="group">A2</span>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/BP">Bp</a><span class="subject">ZE</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class=" empty"></td>
+                <td class=" empty"></td>
+                <td class=" empty"></td>
+            </tr>
+            <tr>
+                <th class="day">St</th>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/BO">Bo</a><span class="subject">Ch</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/HR">Hr</a><span class="subject">M</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/SU">Su</a><span class="subject">C</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/SB">Sb</a><span class="subject">IT</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson2 lessonFirst">
+                        <a class="room" href="/ucebna/18a">18a</a><a class="employee" href="/ucitel/SM">Sm</a><span class="subject">PA</span><a class="class" href="/trida/E1a">E1a</a><span class="group">A2</span>
+                    </div>
+                    <div class="lesson2"><a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/IR">Ir</a><span class="subject">A</span><a class="class" href="/trida/E1a">E1a</a><span class="group">A1</span>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/SU">Su</a><span class="subject">ON</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/SM">Sm</a><span class="subject">PA</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class=" empty"></td>
+                <td class=" empty"></td>
+                <td class=" empty"></td>
+            </tr>
+            <tr>
+                <th class="day">Čt</th>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/BO">Bo</a><span class="subject">Ch</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/TV">TV</a><a class="employee" href="/ucitel/HB">Hb</a><span class="subject">TV</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/8">8</a><a class="employee" href="/ucitel/RK">Rk</a><span class="subject">F</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/HR">Hr</a><span class="subject">M</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson3 lessonFirst">
+                        <a class="room" href="/ucebna/D1">D1</a><a class="employee" href="/ucitel/BR">Br</a><span class="subject">DC</span><a class="class" href="/trida/E1a">E1a</a><span class="group">DC1</span>
+                    </div>
+                    <div class="lesson3"><a class="room" href="/ucebna/D6">D6</a><a class="employee" href="/ucitel/FI">Fi</a><span class="subject">DC</span><a class="class" href="/trida/E1a">E1a</a><span class="group">DC2</span>
+                    </div>
+                    <div class="lesson3"><a class="room" href="/ucebna/D4">D4</a><a class="employee" href="/ucitel/SI">Si</a><span class="subject">DC</span><a class="class" href="/trida/E1a">E1a</a><span class="group">DC3</span>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson3 lessonFirst">
+                        <a class="room" href="/ucebna/D1">D1</a><a class="employee" href="/ucitel/BR">Br</a><span class="subject">DC</span><a class="class" href="/trida/E1a">E1a</a><span class="group">DC1</span>
+                    </div>
+                    <div class="lesson3"><a class="room" href="/ucebna/D6">D6</a><a class="employee" href="/ucitel/FI">Fi</a><span class="subject">DC</span><a class="class" href="/trida/E1a">E1a</a><span class="group">DC2</span>
+                    </div>
+                    <div class="lesson3"><a class="room" href="/ucebna/D4">D4</a><a class="employee" href="/ucitel/SI">Si</a><span class="subject">DC</span><a class="class" href="/trida/E1a">E1a</a><span class="group">DC3</span>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson3 lessonFirst">
+                        <a class="room" href="/ucebna/D1">D1</a><a class="employee" href="/ucitel/BR">Br</a><span class="subject">DC</span><a class="class" href="/trida/E1a">E1a</a><span class="group">DC1</span>
+                    </div>
+                    <div class="lesson3"><a class="room" href="/ucebna/D6">D6</a><a class="employee" href="/ucitel/FI">Fi</a><span class="subject">DC</span><a class="class" href="/trida/E1a">E1a</a><span class="group">DC2</span>
+                    </div>
+                    <div class="lesson3"><a class="room" href="/ucebna/D4">D4</a><a class="employee" href="/ucitel/SI">Si</a><span class="subject">DC</span><a class="class" href="/trida/E1a">E1a</a><span class="group">DC3</span>
+                    </div>
+                </td>
+                <td class=" empty"></td>
+                <td class=" empty"></td>
+                <td class=" empty"></td>
+            </tr>
+            <tr>
+                <th class="day">Pa</th>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/SU">Su</a><span class="subject">ON</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson2 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/KN">Kn</a><span class="subject">A</span><a class="class" href="/trida/E1a">E1a</a><span class="group">A1</span>
+                    </div>
+                    <div class="lesson2"><a class="room" href="/ucebna/5a">5a</a><a class="employee" href="/ucitel/KO">Ko</a><span class="subject">A</span><a class="class" href="/trida/E1a">E1a</a><span class="group">A2</span>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/RK">Rk</a><span class="subject">F</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/SU">Su</a><span class="subject">C</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/SA">Sa</a><span class="subject">D</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class="">
+                    <div class="lesson1 lessonFirst">
+                        <a class="room" href="/ucebna/16">16</a><a class="employee" href="/ucitel/HR">Hr</a><span class="subject">M</span><a class="class" href="/trida/E1a">E1a</a>
+                    </div>
+                </td>
+                <td class=" empty"></td>
+                <td class=" empty"></td>
+                <td class=" empty"></td>
+                <td class=" empty"></td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="version">
+        <div class="versionInfo">Rozvrh pro školní rok: 2018/2019, období: od 1.12. do současnosti.</div>
+    </div>
+</div>
