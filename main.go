@@ -1,3 +1,5 @@
+// Hlavni soubor, neobsahuje skoro nic mimo konstanty siteURL pro pripad
+// zmeneni domeny Jecny a zasadni funkce isLogged()
 package jecnaapi
 
 import (
@@ -9,6 +11,11 @@ import (
 
 var siteURL = "https://www.spsejecna.cz/" // s lomenem na konci
 
+// Pokusi se o prihlaseni, zjisti, zda-li je platne, a ulozi session token do Jecnaka
+// Je nutne zavolat pred vetsinou funkci ktera by na webu vyzadovala prihlaseni (napr. suplarchy)
+// Pozor, session tokeny maji omezenou dobu platnosti, a taky ztraci platnost
+// prihlasenim na portal z jineho zarizeni/programu
+// Je nutne vyplnit pole LoginName a LoginPass v Jecnakovi pred volanim teto funkce
 func (jecnak *Jecnak) IsLogged() bool {
 	if len(jecnak.LoginSession) < 1 {
 		// prihlasit uzivatele

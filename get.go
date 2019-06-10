@@ -1,3 +1,6 @@
+// Tento soubor obsahuje funkce pro crawling dat z portalu
+// Temer vsechny funkce stavi na receiver typu Jecnak
+
 package jecnaapi
 
 import (
@@ -11,6 +14,8 @@ import (
 	"time"
 )
 
+// Stahne obsah jednoho suplarchu
+// Vyzaduje session token - Jecnak.isLogged()
 func (jecnak *Jecnak) GetSuplarchContent(suplarch Suplarch) SuplarchObsah {
 	/*
 		client := &http.Client{}
@@ -79,6 +84,10 @@ func (jecnak *Jecnak) GetSuplarchContent(suplarch Suplarch) SuplarchObsah {
 	return suplarchObsah
 }
 
+// Vygeneruje automaticky seznam peti poslednich suplarchu
+// Melo by funkovat i pristi skolni roky, pokud nekdo az moc neprekope
+// strukturu slozek suplarchu na portalu
+// Vyzaduje session token - Jecnak.isLogged()
 func (jecnak *Jecnak) GetSuplarchSeznam() SuplarchSeznam {
 	loc, _ := time.LoadLocation("CET") // CET - Central European Time
 	var suplarchy SuplarchSeznam
@@ -260,6 +269,8 @@ func (jecnak *Jecnak) GetSuplarchSeznam() SuplarchSeznam {
 	return suplarchy
 }
 
+// Stahne seznam vsech zaznamenanych prichodu v tomto pololeti
+// Vyzaduje session token - Jecnak.isLogged()
 func (jecnak *Jecnak) GetPrichody() Prichody {
 	document := jecnak.getGoqueryDocument(siteURL + "absence/passing-student")
 
@@ -277,6 +288,8 @@ func (jecnak *Jecnak) GetPrichody() Prichody {
 	return po
 }
 
+// Stahne omluvny list pro toto pololeti
+// Vyzaduje session token - Jecnak.isLogged()
 func (jecnak *Jecnak) GetOmluvnyList() OmluvnyList {
 	document := jecnak.getGoqueryDocument(siteURL + "absence/student")
 
@@ -295,6 +308,9 @@ func (jecnak *Jecnak) GetOmluvnyList() OmluvnyList {
 
 }
 
+// Stahne informace o Jecnakovi (to co je vsechno videt na ty strance s ksichtem Jecnaka)
+// a ulozi je do Jecnaka, na kterem je funkce volana
+// Vyzaduje session token - Jecnak.isLogged()
 func (jecnak *Jecnak) GetJecnakInfo() {
 	document := jecnak.getGoqueryDocument(siteURL + "student/" + jecnak.LoginName)
 
@@ -337,6 +353,8 @@ func (jecnak *Jecnak) GetJecnakInfo() {
 	})
 }
 
+// Stahne momentalne platny rozvrh Jecnaka
+// Vyzaduje session token - Jecnak.isLogged()
 func (jecnak *Jecnak) GetRozvrh() Rozvrh {
 	document := jecnak.getGoqueryDocument(siteURL + "timetable/class")
 
@@ -369,6 +387,8 @@ func (jecnak *Jecnak) GetRozvrh() Rozvrh {
 	return timetable
 }
 
+// Stahne vsechny znamky Jecnaka v tomto pololeti
+// Vyzaduje session token - Jecnak.isLogged()
 func (jecnak *Jecnak) GetZnamky() Znamky {
 	document := jecnak.getGoqueryDocument(siteURL + "score/student")
 
@@ -423,6 +443,10 @@ func (jecnak *Jecnak) GetZnamky() Znamky {
 	return scores
 }
 
+// Stahne informace o Jecniteli
+// Pro ziskani nekterych udaju neni vyzadovan session token
+// (muze byt spusteno rovnou bez vyplneni prihlaseni a IsLogged()),
+// ale pro vsechny udaje je potreba
 func (jecnak *Jecnak) GetJecnitel(jecnitelovaZkratka string) Jecnitel {
 	document := jecnak.getGoqueryDocument(siteURL + "ucitel/" + jecnitelovaZkratka)
 
@@ -461,6 +485,9 @@ func (jecnak *Jecnak) GetJecnitel(jecnitelovaZkratka string) Jecnitel {
 	return ucitel
 }
 
+// Stahne seznam Jecnitelu
+// Teto funkci je uplne ukradeny, jestli ma session token, nebo ne,
+// pac je to stejne verejne pristupny na webu
 func (jecnak *Jecnak) GetSeznamJecnitelu() SeznamJecnitelu {
 	document := jecnak.getGoqueryDocument(siteURL + "ucitel")
 

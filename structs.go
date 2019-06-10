@@ -1,3 +1,4 @@
+// Tento soubor obsahuje datove struktury potrebne pro ostatni soubory
 package jecnaapi
 
 type SuplarchTrida struct {

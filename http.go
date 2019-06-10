@@ -1,3 +1,4 @@
+// Podpurne funkce Jecna API pro http a html parsing
 package jecnaapi
 
 import (

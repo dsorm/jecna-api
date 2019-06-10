@@ -1,3 +1,6 @@
+// Dalsi mensi podpurne funkce pro Jecna API,
+// asi nazvy uz napovi
+
 package jecnaapi
 
 import (

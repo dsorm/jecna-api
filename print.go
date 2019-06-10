@@ -1,3 +1,7 @@
+// Tento soubor obsahuje funkce pro vypis vsech datovych typu,
+// ktere vyflusnou funkce ze souboru get.go
+// Jsou urceny spise pro debugging a demonstraci nez
+// pouziti v "produkcnich" prostredich, holt lepsi neco nez nic
 package jecnaapi
 
 import (
@@ -10,6 +14,13 @@ import (
 
 var stdout io.Writer = os.Stdout
 
+// Vypise do konzole obsah datove struktury SuplarchObsah
+// Pokud je do argumentu vlozen Jecnak, automaticky
+// vypise pouze suplovani jeho tridy
+// Pokud je do nej vlozen typ int (pozor, ne napr. int64 nebo uint8)
+// nastavuje se tim uroven podrobnosti vypisu
+// Mozne hodnoty intu: 1, 2
+// Pokud je vlozena hodnota vyssi ci nizsi, automaticky se vybere ta nejblizsi
 func (suplarchObsah SuplarchObsah) Print(a interface{}) {
 	var details uint8
 	switch a.(type) {
@@ -73,12 +84,16 @@ func (suplarchObsah SuplarchObsah) Print(a interface{}) {
 
 }
 
+// Vypise do konzole obsah datove struktury SuplarchSeznam
 func (suplarchSeznam SuplarchSeznam) Print() {
 	for k, v := range suplarchSeznam {
 		fmt.Fprintf(stdout, "[%v] %v (%v)\n", k, v.name, v.url)
 	}
 }
 
+// Vypise do konzole obsah datove struktury Prichody
+// Pokud chcete vypsat i dny, kdy nebyl zaznamenan zadny prichod,
+// nastavte argument "printEmptyRows" na true
 func (prichody Prichody) Print(printEmptyRows bool) {
 	for _, v := range prichody {
 		if printEmptyRows && len(v.PrichodOdchod) < 1 {
@@ -88,12 +103,16 @@ func (prichody Prichody) Print(printEmptyRows bool) {
 	}
 }
 
+// Vypise do konzole obsah datove struktury OmluvnyList
 func (omluvnyList OmluvnyList) Print() {
 	for _, v := range omluvnyList {
 		fmt.Println(v.Datum+":", v.Text)
 	}
 }
 
+// Vypise do konzole obsah datove struktury Jecnak
+// Pokud chcete zobrazit i heslo k prihlaseni, nastavte
+// argument "showPassword" na true
 func (jecnak *Jecnak) Print(showPassword bool) {
 	fmt.Fprintf(stdout, "-- Přihlašovací údaje --\n")
 	fmt.Fprintf(stdout, "Přihlašovací jméno: %v\n", jecnak.LoginName)
@@ -126,6 +145,9 @@ func (jecnak *Jecnak) Print(showPassword bool) {
 
 }
 
+// Vypise do konzole obsah datove struktury Rozvrh
+// Je to trosku vizualne rozbity, protoze je mi to nejak jedno,
+// ale obsah se vypisuje spravne
 func (rozvrh *Rozvrh) Print() {
 	space := "           "
 	for _, v := range rozvrh.Casy {
@@ -165,6 +187,10 @@ func (rozvrh *Rozvrh) Print() {
 	}
 }
 
+// Vypise do konzole obsah datove struktury Znamky
+// Do argumentu "details" lze zadat uroven podrobnosti vypisu
+// Mozne hdonoty: 1, 2, 3
+// V pripade zadani jine hodnoty bude pouzita ta nejblizsi mozna k zadane
 func (znamky Znamky) Print(details uint8) {
 	if details > 3 {
 		details = 3
@@ -226,6 +252,7 @@ func (znamky Znamky) Print(details uint8) {
 	}
 }
 
+// Vypise do konzole obsah datove struktury Jecnitel
 func (jecnitel *Jecnitel) Print() {
 	fmt.Fprintf(stdout, "Jméno: %v (%v)\n", jecnitel.Jmeno, jecnitel.Zkratka)
 	fmt.Fprintf(stdout, "Uživatelské jméno: %v\n", jecnitel.UzivatelskeJmeno)
@@ -240,6 +267,7 @@ func (jecnitel *Jecnitel) Print() {
 	}
 }
 
+// Vypise do konzole obsah datove struktury SeznamJecnitelu
 func (seznamJecnitelu SeznamJecnitelu) Print() {
 	for _, v := range seznamJecnitelu {
 		fmt.Fprintf(stdout, "[%v] %v\n", v.Zkratka, v.Jmeno)

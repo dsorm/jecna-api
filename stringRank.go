@@ -1,3 +1,8 @@
+// Podpurna miniknihovnicka pro vnitrni potreby Jecna API
+// ktera nam usnadnuje hledani spravnych slozek pro ziskani
+// momentalniho suplarchu, protoze zjevne mit sjednoceny
+// format nazvu je prilis tezke pro Jecnou
+
 package jecnaapi
 
 import (
