@@ -1,4 +1,4 @@
-// Hlavni soubor, neobsahuje skoro nic mimo konstanty siteURL pro pripad
+// Hlavni soubor, neobsahujeinstall skoro nic mimo konstanty siteURL pro pripad
 // zmeneni domeny Jecny a zasadni funkce isLogged()
 package jecnaapi
 
